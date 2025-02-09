@@ -14,5 +14,5 @@ nix develop -c $SHELL
 
 # Credit
 
-Learned from https://github.com/liyangau video:
+Learned from https://github.com/liyangau video: \
 https://www.youtube.com/watch?v=_8xh5EcsHrs
